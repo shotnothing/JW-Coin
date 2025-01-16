@@ -1,0 +1,17 @@
+{
+  "name": "jwcoin",
+  "version": "1.0.0",
+  "main": "contracts/Token.sol",
+  "scripts": {
+    "test": "hardhat test",
+    "ignition": "hardhat ignition deploy ./ignition/modules/Token.ts --network sepolia"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18",
+    "@nomicfoundation/hardhat-ignition": "^0.1.0"
+  }
+}
