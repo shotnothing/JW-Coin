@@ -1,6 +1,6 @@
 # 🪙 JW Coin 🛸
 
-📍 **Contract Address:**
+📍 **Contract Address (Sepolia):**
 ```
 0x29AD7A9b723bdEbb5d7084150850F4bd3Fa69618
 ```
