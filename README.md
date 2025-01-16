@@ -17,3 +17,14 @@ npm run test
 ```shell
 npm run ignition
 ```
+
+## 🏦 My Wallets
+1:
+```
+0x692BcF8CDbD4AD5Dc8B20EA50De06CeF41006aC6
+```
+
+2:
+```
+0xc3f1eeb154404a354B3AC0997dC93A0ef1B238b5
+```
