@@ -1,4 +1,4 @@
-# 🪙 JW Coin
+# 🪙 JW Coin 
 
 📍 **Contract Address:**
 ```
